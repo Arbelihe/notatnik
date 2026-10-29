@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Kartka z liniami tekstu, w bezpiecznej strefie 66dp ikony adaptacyjnej -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- kartka z zagiętym rogiem -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M38,30 L62,30 L72,40 L72,78 Q72,80 70,80 L38,80 Q36,80 36,78 L36,32 Q36,30 38,30 Z" />
+    <path
+        android:fillColor="#FFB9D2FA"
+        android:pathData="M62,30 L72,40 L64,40 Q62,40 62,38 Z" />
+    <!-- linie tekstu -->
+    <path
+        android:fillColor="#FF1F6FEB"
+        android:pathData="M42,48 h24 v3 h-24 Z M42,55 h24 v3 h-24 Z M42,62 h24 v3 h-24 Z M42,69 h15 v3 h-15 Z" />
+</vector>

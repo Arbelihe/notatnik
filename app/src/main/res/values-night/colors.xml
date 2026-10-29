@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bar">#FF1E2126</color>
+    <color name="editor">#FF15171A</color>
+    <color name="text">#FFE6E8EB</color>
+    <color name="text_dim">#FF9AA0A9</color>
+    <color name="accent">#FF6CA6FF</color>
+    <color name="divider">#FF2C3036</color>
+</resources>
